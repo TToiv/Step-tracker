@@ -9,10 +9,9 @@
   <name>Step tracker</name>
 
   <description>
-    
+    Assignment 2 for COMP2361
   </description>
     <access origin="*"/>
-    <!--gives access to network-->
    	<plugin name="cordova-plugin-whitelist" version="1" />
  
     <!--Android 6.0 or newer: Plugin to support runtime permissions--> 
